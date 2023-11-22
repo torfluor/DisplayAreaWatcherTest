@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "DisplayAreaWatcherTest (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "DisplayAreaWatcherTest (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
